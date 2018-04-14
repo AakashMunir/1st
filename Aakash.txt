@@ -1,2 +1,5 @@
 Aakash munir
+<<<<<<< HEAD
 i have to wait it
+=======
+>>>>>>> web1
