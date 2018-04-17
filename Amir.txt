@@ -1,2 +1,7 @@
 Amir munir
+<<<<<<< HEAD
 hi where r u guyz
+=======
+
+i m here where yaar where r u boy?
+>>>>>>> web1
