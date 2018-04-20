@@ -1,12 +1,2 @@
 Amir munir
-<<<<<<< HEAD
-hi where r u guyz
-=======
-
-i m here where yaar where r u boy?
->>>>>>> web1
-
-where r you going?
-i m here  i am not going any where.
-Test
-Test
+1st
