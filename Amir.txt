@@ -1,3 +1,9 @@
 Amir munir
+<<<<<<< HEAD
 
 2nd
+=======
+1st
+
+3rd
+>>>>>>> master
