@@ -1,6 +1,3 @@
 Amir munir
-<<<<<<< HEAD
-hi where r u guyz
-=======
 
-
+2nd
