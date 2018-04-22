@@ -1,4 +1,8 @@
 Amir munir
+<<<<<<< HEAD
+
+2nd
+=======
 1st
 A
 B
@@ -6,5 +10,14 @@ c
 D
 E
 3rd
+
+
+>>>>>>> master
+1st
 4th
 what i can do it for u guys
+2nd
+
+
+5th
+soo what happen if there is change some thing.
